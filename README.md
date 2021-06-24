@@ -1,5 +1,5 @@
 Hi! 🙂
-# celcius is an extremely easy celcius 
+# celcius is a celcius 
 to farenheit converter.
 It's one of the many projects I will
 be building with Angular. 
